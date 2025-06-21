@@ -32,17 +32,14 @@ python phone.py
 - VS Code (for development)
 
 📂 File Structure
-bash
-Copy
-Edit
+
 PhoneBookProject/
 ├── phone.py         # Main project file
 ├── README.md        # Project description
 
 👤 Author
-Your Name
-CSE Student | Software Developer | AI Enthusiast
-GitHub | LinkedIn
+Avirup Das
+GitHub: avirupdas77
 
 📄 License
 This project is open source and free to use.
